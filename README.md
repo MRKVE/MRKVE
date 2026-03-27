@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student in the University of Tartu<br>Computer science major<br>
+Student in the University of Tartu<br>Computer Science major<br>
 
 
 # 💻 Tech Stack:
